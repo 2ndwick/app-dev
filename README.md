@@ -1,21 +1,23 @@
 # app-dev
 # My First Repository
 ## My Favorite Movies, Series And Anime List
-**Movies**
+### Movies
+- Nobody
+- Baywatch
 - Big Daddy
 - Mr. Deeds
-- 50 First Dates
 - Warm Bodies
-- Baywatch
-- Nobody
-- Dayshift
+- 50 First Dates
+- 500 Days of Summer
 
-**Series**
+### Series
 - Breaking Bad
 - Better Call Saul
 - Suits
 - Stranger Things
-- 
+- Cobra Kai
+
+
 ### Big Daddy Dialogue
 **Layla:** 
 *I'm sorry Sonny, I cant. It's my case*
