@@ -1,6 +1,7 @@
 # app-dev
-My First Repository
-# Big Daddy
+# My First Repository
+
+## Big Daddy Dialogue
 **Layla:** 
 *I'm sorry Sonny, I cant. It's my case*
 
@@ -11,4 +12,6 @@ My First Repository
 *Sonny, this is exactly why I didn't want to get involved. I had things going just the way I wanted. And then I'm sitting in the park, and you and this kid just come barging into my life. And it's screwing up everything I had planned.*
 
 **Sonny**
-*A kid showed up on my doorstep. You think I planned on that? But I fell in love with him*
+*A kid showed up on my doorstep. You think I planned on that? But I fell in love with him*.
+
+
