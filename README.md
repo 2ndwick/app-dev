@@ -1,7 +1,22 @@
 # app-dev
 # My First Repository
+## My Favorite Movies, Series And Anime List
+**Movies**
+- Big Daddy
+- Mr. Deeds
+- 50 First Dates
+- Warm Bodies
+- Baywatch
+- Nobody
+- Dayshift
 
-## Big Daddy Dialogue
+**Series**
+- Breaking Bad
+- Better Call Saul
+- Suits
+- Stranger Things
+- 
+### Big Daddy Dialogue
 **Layla:** 
 *I'm sorry Sonny, I cant. It's my case*
 
