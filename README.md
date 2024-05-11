@@ -17,6 +17,14 @@
 - Stranger Things
 - Cobra Kai
 
+### Animes
+- Tensura
+- Tsukimichi
+- Mushoku Tensei
+- Shield Hero
+- Demon Slayer
+- Jujutsu Kaisen
+
 ## My All Time Favorite Dialogue
 ### Big Daddy Dialogue
 **Layla:** 
@@ -31,4 +39,6 @@
 **Sonny**
 *A kid showed up on my doorstep. You think I planned on that? But I fell in love with him*.
 
+## My All Time Favorite Anime
+### Jujutsu Kaisen
 
